@@ -1,6 +1,6 @@
 provider "aws" {
 	region = var.aws_region
-    profile = "default"
+    profile = "....."
 }
 
 module "my_instance_module" {
